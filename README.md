@@ -12,7 +12,7 @@ const rkistaps = {
   code: ["Php", "Html", "CSS", "Javascript"],
   inProgress: ["Vue"],
   tools: ["Docker", "Git", "Node", "Composer"],
-  interests: ["Integrations", "APIs", "Backend"],
+  interests: ["Integrations", "APIs", "Backend", "Psr", "OpenApi Specification"],
   editors: ["PhpStorm", "VS Code"],
   tabsVsSpaces: "Spaces"
 }
