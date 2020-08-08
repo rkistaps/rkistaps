@@ -11,7 +11,7 @@
 const rkistaps = {
   code: ["Php", "Html", "CSS", "Javascript"],
   inProgress: ["Vue"],
-  tools: ["docker", "node", "composer"],
+  tools: ["docker", "Git", "node", "composer"],
   editors: ["PhpStorm", "VS Code"],
   tabsVsSpaces: "spaces"
 }
