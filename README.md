@@ -1,6 +1,4 @@
 ## Hi, I'm Kristaps 👋
-<img align="right" src="https://user-images.githubusercontent.com/22044469/89708410-80035f00-d97f-11ea-9a77-71613d1c98ce.png" width="256" style="margin: 40px"/>
-
 <p><em>Software Developer at <a target="_blank" href="http://www.printful.com">Printful</a></em></p>
 
 [![Twitter: rkistaps](https://img.shields.io/twitter/follow/rkistaps?style=social)](https://twitter.com/rkistaps)
