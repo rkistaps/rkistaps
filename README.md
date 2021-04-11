@@ -8,7 +8,6 @@
 ```javascript
 const rkistaps = {
   code: ["Php", "Mysql", "Html", "CSS", "Javascript"],
-  inProgress: ["Vue"],
   tools: ["Docker", "Git", "Node", "Composer"],
   interests: ["Integrations", "APIs", "SOLID", "Psr", "OpenApi Specification"],
   editors: ["PhpStorm", "VS Code"],
