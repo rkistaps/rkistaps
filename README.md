@@ -1,5 +1,5 @@
 ## Hi, I'm Kristaps 👋
-<p><em>Software Developer at <a target="_blank" href="http://www.printful.com">Printful</a></em></p>
+<p><em>Integrations & API Team Lead at <a target="_blank" href="http://www.printful.com">Printful</a></em></p>
 
 [![Twitter: rkistaps](https://img.shields.io/twitter/follow/rkistaps?style=social)](https://twitter.com/rkistaps)
 [![Linkedin: rkistaps](https://img.shields.io/badge/-rkistaps-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rkistaps/)](https://www.linkedin.com/in/rkistaps/)
